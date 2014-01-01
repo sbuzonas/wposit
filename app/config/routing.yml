@@ -1,0 +1,10 @@
+fancy_guy_w_posit_web:
+    resource: "@FancyGuyWPositWebBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+fancy_guy_w_posit:
+    resource: "@FancyGuyWPositBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
